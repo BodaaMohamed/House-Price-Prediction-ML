@@ -18,12 +18,8 @@ This project aims to predict house prices based on various features such as loca
 - Jupyter Notebook for implementation
 
 ## 📂 Dataset
-The dataset includes features like:
-- Square footage
-- Number of bedrooms and bathrooms
-- Location details
-- Property age
-- Additional amenities
+The dataset used in this project is available on Kaggle:
+[The Boston House Price Data](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)
 
 ## 🚀 Installation & Usage
 1. Clone the repository:
@@ -53,8 +49,7 @@ The model is evaluated using metrics like:
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
-## 📜 License
+## 💜 License
 This project is licensed under the MIT License.
-
 
 
